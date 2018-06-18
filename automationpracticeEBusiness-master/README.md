@@ -1,5 +1,7 @@
 # Automationpractice-EBusiness
-@Qualitance
+
+
+
 We will create a test suite using Java, Selenium, TestNG and the Chrome Driver to run our tests
 
 #  Get the webdriver for your platform: Windows, MacOS, Linux (configured)
